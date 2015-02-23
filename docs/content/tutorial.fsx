@@ -10,8 +10,8 @@ Introducing your project
 Say more
 
 *)
-#r "FSharp.ProjectTemplate.dll"
-open FSharp.ProjectTemplate
+#r "Fncurses.dll"
+open Fncurses
 
 Library.hello 0
 (**
